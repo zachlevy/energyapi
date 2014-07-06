@@ -25,9 +25,6 @@ DEBUG = True
 DEBUG = bool(os.environ.get('DJANGO_DEBUG', ''))
 TEMPLATE_DEBUG = DEBUG
 
-
-TEMPLATE_DEBUG = True
-
 ALLOWED_HOSTS = []
 
 
