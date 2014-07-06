@@ -1,4 +1,3 @@
-build/*
 pip-log.txt
 venv
 *.pyc
