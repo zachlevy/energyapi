@@ -1,4 +1,4 @@
-from django.shortcuts import render
+from django.shortcuts import render, get_object_or_404
 from energyapi.models import Building
 
 # Create your views here.
@@ -25,4 +25,5 @@ def getBuildings():
 	return Building.objects.all()
 
 def getBuilding(buildingId):
-	return Building.object.get(buildingId)
+
+	return get_object_or_404(Building, buildingId=buildingId)
