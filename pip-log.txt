@@ -1,0 +1,528 @@
+Downloading/unpacking South
+  Getting page http://pypi.python.org/simple/South
+  URLs to search for versions for South:
+  * http://pypi.python.org/simple/South
+  Analyzing links from page https://pypi.python.org/simple/South/
+    Skipping link https://pypi.python.org/packages/2.5/S/South/South-0.4-py2.5.egg#md5=c440a0f1929b5fd6bc4b1127157dc61f (from https://pypi.python.org/simple/South/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.7/S/South/South-0.8.3-py2.py3-none-any.whl#md5=9b5072c163f360cd4511150646be804b (from https://pypi.python.org/simple/South/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/2.7/S/South/South-0.8.4-py2.py3-none-any.whl#md5=6b2338a7590b43e37eae98203b50ef21 (from https://pypi.python.org/simple/South/); unknown archive format: .whl
+    Found link https://pypi.python.org/packages/source/S/South/South-0.4.tar.gz#md5=bdf0d84bd8ad5d11564d9ef5e344344d (from https://pypi.python.org/simple/South/), version: 0.4
+    Found link https://pypi.python.org/packages/source/S/South/South-0.5.tar.gz#md5=ad4f6fc4df648b11a430d6bf38796f89 (from https://pypi.python.org/simple/South/), version: 0.5
+    Found link https://pypi.python.org/packages/source/S/South/South-0.6.1.tar.gz#md5=602f536b40a9ebd3b7621a8adeb745fe (from https://pypi.python.org/simple/South/), version: 0.6.1
+    Found link https://pypi.python.org/packages/source/S/South/South-0.6.2.tar.gz#md5=33ecdaf700d4a4797c43a894f45d4f2d (from https://pypi.python.org/simple/South/), version: 0.6.2
+    Found link https://pypi.python.org/packages/source/S/South/South-0.6.tar.gz#md5=d2fde4db0724251bf3abbda961ab1ea8 (from https://pypi.python.org/simple/South/), version: 0.6
+    Found link https://pypi.python.org/packages/source/S/South/South-0.7-rc1.tar.gz#md5=b819d70d7af9d335e202c9007d952b37 (from https://pypi.python.org/simple/South/), version: 0.7-rc1
+    Found link https://pypi.python.org/packages/source/S/South/South-0.7.1.tar.gz#md5=9ae414a9217238b5b72aeb4fdeee03e1 (from https://pypi.python.org/simple/South/), version: 0.7.1
+    Found link https://pypi.python.org/packages/source/S/South/South-0.7.2.tar.gz#md5=df1c95c3824149d7eef518450cb17c57 (from https://pypi.python.org/simple/South/), version: 0.7.2
+    Found link https://pypi.python.org/packages/source/S/South/South-0.7.3.tar.gz#md5=32bd32fd98a912547976c2434703109e (from https://pypi.python.org/simple/South/), version: 0.7.3
+    Found link https://pypi.python.org/packages/source/S/South/South-0.7.4.tar.gz#md5=3d0537f637226fe928e1b9430b71f831 (from https://pypi.python.org/simple/South/), version: 0.7.4
+    Found link https://pypi.python.org/packages/source/S/South/South-0.7.5.tar.gz#md5=761d4002571dd239f4afe400a52c1b52 (from https://pypi.python.org/simple/South/), version: 0.7.5
+    Found link https://pypi.python.org/packages/source/S/South/South-0.7.6.tar.gz#md5=6089871449006d45d06c409b42d8bd44 (from https://pypi.python.org/simple/South/), version: 0.7.6
+    Found link https://pypi.python.org/packages/source/S/South/South-0.7.tar.gz#md5=6ad44ee1ed473abdba6fd2fe162712ad (from https://pypi.python.org/simple/South/), version: 0.7
+    Found link https://pypi.python.org/packages/source/S/South/South-0.8.1.tar.gz#md5=72deb5c8144a65ac42d1390ff922581d (from https://pypi.python.org/simple/South/), version: 0.8.1
+    Found link https://pypi.python.org/packages/source/S/South/South-0.8.2.tar.gz#md5=89e61dd2cddab43d4de73d82321c61e6 (from https://pypi.python.org/simple/South/), version: 0.8.2
+    Found link https://pypi.python.org/packages/source/S/South/South-0.8.3.tar.gz#md5=672e6399d7acee82987dac7551ed812d (from https://pypi.python.org/simple/South/), version: 0.8.3
+    Found link https://pypi.python.org/packages/source/S/South/South-0.8.4.tar.gz#md5=ccd6ebadd3e2c8c6ef16d771632f7840 (from https://pypi.python.org/simple/South/), version: 0.8.4
+    Found link https://pypi.python.org/packages/source/S/South/South-0.8.tar.gz#md5=7336a55ea1753d71734579aefcb0d1b0 (from https://pypi.python.org/simple/South/), version: 0.8
+    Found link https://pypi.python.org/packages/source/S/South/South-1.0.tar.gz#md5=6819bd6299937b08fbb0f3589d8680b7 (from https://pypi.python.org/simple/South/), version: 1.0
+    Found link http://bitbucket.org/andrewgodwin/south/get/tip.gz#egg=South-dev (from https://pypi.python.org/simple/South/), version: dev
+  Using version 1.0 (newest of versions: 1.0, 0.8.4, 0.8.3, 0.8.2, 0.8.1, 0.8, 0.7.6, 0.7.5, 0.7.4, 0.7.3, 0.7.2, 0.7.1, 0.7, 0.7-rc1, 0.6.2, 0.6.1, 0.6, 0.5, 0.4, dev)
+  Downloading from URL https://pypi.python.org/packages/source/S/South/South-1.0.tar.gz#md5=6819bd6299937b08fbb0f3589d8680b7 (from https://pypi.python.org/simple/South/)
+  Running setup.py egg_info for package South
+    running egg_info
+    creating pip-egg-info/South.egg-info
+    writing pip-egg-info/South.egg-info/PKG-INFO
+    writing top-level names to pip-egg-info/South.egg-info/top_level.txt
+    writing dependency_links to pip-egg-info/South.egg-info/dependency_links.txt
+    writing manifest file 'pip-egg-info/South.egg-info/SOURCES.txt'
+    warning: manifest_maker: standard file '-c' not found
+    reading manifest file 'pip-egg-info/South.egg-info/SOURCES.txt'
+    writing manifest file 'pip-egg-info/South.egg-info/SOURCES.txt'
+  Source in ./build/South has version 1.0, which satisfies requirement South
+Installing collected packages: South
+  Running setup.py install for South
+    Running command /usr/bin/python -c "import setuptools; __file__='/vagrant/energy/build/South/setup.py'; execfile('/vagrant/energy/build/South/setup.py')" install --single-version-externally-managed --record /tmp/pip-OUD8xY-record/install-record.txt --install-headers /vagrant/energy/lib/include
+    running install
+    running build
+    running build_py
+    creating build
+    creating build/lib.linux-x86_64-2.6
+    creating build/lib.linux-x86_64-2.6/south
+    copying south/__init__.py -> build/lib.linux-x86_64-2.6/south
+    copying south/exceptions.py -> build/lib.linux-x86_64-2.6/south
+    copying south/logger.py -> build/lib.linux-x86_64-2.6/south
+    copying south/models.py -> build/lib.linux-x86_64-2.6/south
+    copying south/modelsinspector.py -> build/lib.linux-x86_64-2.6/south
+    copying south/orm.py -> build/lib.linux-x86_64-2.6/south
+    copying south/signals.py -> build/lib.linux-x86_64-2.6/south
+    copying south/test_shim.py -> build/lib.linux-x86_64-2.6/south
+    copying south/v2.py -> build/lib.linux-x86_64-2.6/south
+    creating build/lib.linux-x86_64-2.6/south/creator
+    copying south/creator/__init__.py -> build/lib.linux-x86_64-2.6/south/creator
+    copying south/creator/actions.py -> build/lib.linux-x86_64-2.6/south/creator
+    copying south/creator/changes.py -> build/lib.linux-x86_64-2.6/south/creator
+    copying south/creator/freezer.py -> build/lib.linux-x86_64-2.6/south/creator
+    creating build/lib.linux-x86_64-2.6/south/db
+    copying south/db/__init__.py -> build/lib.linux-x86_64-2.6/south/db
+    copying south/db/firebird.py -> build/lib.linux-x86_64-2.6/south/db
+    copying south/db/generic.py -> build/lib.linux-x86_64-2.6/south/db
+    copying south/db/mysql.py -> build/lib.linux-x86_64-2.6/south/db
+    copying south/db/oracle.py -> build/lib.linux-x86_64-2.6/south/db
+    copying south/db/postgresql_psycopg2.py -> build/lib.linux-x86_64-2.6/south/db
+    copying south/db/sqlite3.py -> build/lib.linux-x86_64-2.6/south/db
+    creating build/lib.linux-x86_64-2.6/south/management
+    copying south/management/__init__.py -> build/lib.linux-x86_64-2.6/south/management
+    creating build/lib.linux-x86_64-2.6/south/introspection_plugins
+    copying south/introspection_plugins/__init__.py -> build/lib.linux-x86_64-2.6/south/introspection_plugins
+    copying south/introspection_plugins/annoying_autoonetoone.py -> build/lib.linux-x86_64-2.6/south/introspection_plugins
+    copying south/introspection_plugins/django_audit_log.py -> build/lib.linux-x86_64-2.6/south/introspection_plugins
+    copying south/introspection_plugins/django_objectpermissions.py -> build/lib.linux-x86_64-2.6/south/introspection_plugins
+    copying south/introspection_plugins/django_tagging.py -> build/lib.linux-x86_64-2.6/south/introspection_plugins
+    copying south/introspection_plugins/django_taggit.py -> build/lib.linux-x86_64-2.6/south/introspection_plugins
+    copying south/introspection_plugins/django_timezones.py -> build/lib.linux-x86_64-2.6/south/introspection_plugins
+    copying south/introspection_plugins/geodjango.py -> build/lib.linux-x86_64-2.6/south/introspection_plugins
+    creating build/lib.linux-x86_64-2.6/south/hacks
+    copying south/hacks/__init__.py -> build/lib.linux-x86_64-2.6/south/hacks
+    copying south/hacks/django_1_0.py -> build/lib.linux-x86_64-2.6/south/hacks
+    creating build/lib.linux-x86_64-2.6/south/migration
+    copying south/migration/__init__.py -> build/lib.linux-x86_64-2.6/south/migration
+    copying south/migration/base.py -> build/lib.linux-x86_64-2.6/south/migration
+    copying south/migration/migrators.py -> build/lib.linux-x86_64-2.6/south/migration
+    copying south/migration/utils.py -> build/lib.linux-x86_64-2.6/south/migration
+    creating build/lib.linux-x86_64-2.6/south/tests
+    copying south/tests/__init__.py -> build/lib.linux-x86_64-2.6/south/tests
+    copying south/tests/autodetection.py -> build/lib.linux-x86_64-2.6/south/tests
+    copying south/tests/db.py -> build/lib.linux-x86_64-2.6/south/tests
+    copying south/tests/db_firebird.py -> build/lib.linux-x86_64-2.6/south/tests
+    copying south/tests/db_mysql.py -> build/lib.linux-x86_64-2.6/south/tests
+    copying south/tests/freezer.py -> build/lib.linux-x86_64-2.6/south/tests
+    copying south/tests/inspector.py -> build/lib.linux-x86_64-2.6/south/tests
+    copying south/tests/logger.py -> build/lib.linux-x86_64-2.6/south/tests
+    copying south/tests/logic.py -> build/lib.linux-x86_64-2.6/south/tests
+    creating build/lib.linux-x86_64-2.6/south/db/sql_server
+    copying south/db/sql_server/__init__.py -> build/lib.linux-x86_64-2.6/south/db/sql_server
+    copying south/db/sql_server/pyodbc.py -> build/lib.linux-x86_64-2.6/south/db/sql_server
+    creating build/lib.linux-x86_64-2.6/south/management/commands
+    copying south/management/commands/__init__.py -> build/lib.linux-x86_64-2.6/south/management/commands
+    copying south/management/commands/convert_to_south.py -> build/lib.linux-x86_64-2.6/south/management/commands
+    copying south/management/commands/datamigration.py -> build/lib.linux-x86_64-2.6/south/management/commands
+    copying south/management/commands/graphmigrations.py -> build/lib.linux-x86_64-2.6/south/management/commands
+    copying south/management/commands/migrate.py -> build/lib.linux-x86_64-2.6/south/management/commands
+    copying south/management/commands/migrationcheck.py -> build/lib.linux-x86_64-2.6/south/management/commands
+    copying south/management/commands/schemamigration.py -> build/lib.linux-x86_64-2.6/south/management/commands
+    copying south/management/commands/startmigration.py -> build/lib.linux-x86_64-2.6/south/management/commands
+    copying south/management/commands/syncdb.py -> build/lib.linux-x86_64-2.6/south/management/commands
+    copying south/management/commands/test.py -> build/lib.linux-x86_64-2.6/south/management/commands
+    copying south/management/commands/testserver.py -> build/lib.linux-x86_64-2.6/south/management/commands
+    creating build/lib.linux-x86_64-2.6/south/tests/circular_a
+    copying south/tests/circular_a/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/circular_a
+    copying south/tests/circular_a/models.py -> build/lib.linux-x86_64-2.6/south/tests/circular_a
+    creating build/lib.linux-x86_64-2.6/south/tests/emptyapp
+    copying south/tests/emptyapp/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/emptyapp
+    copying south/tests/emptyapp/models.py -> build/lib.linux-x86_64-2.6/south/tests/emptyapp
+    creating build/lib.linux-x86_64-2.6/south/tests/deps_a
+    copying south/tests/deps_a/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/deps_a
+    copying south/tests/deps_a/models.py -> build/lib.linux-x86_64-2.6/south/tests/deps_a
+    creating build/lib.linux-x86_64-2.6/south/tests/fakeapp
+    copying south/tests/fakeapp/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/fakeapp
+    copying south/tests/fakeapp/models.py -> build/lib.linux-x86_64-2.6/south/tests/fakeapp
+    creating build/lib.linux-x86_64-2.6/south/tests/brokenapp
+    copying south/tests/brokenapp/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/brokenapp
+    copying south/tests/brokenapp/models.py -> build/lib.linux-x86_64-2.6/south/tests/brokenapp
+    creating build/lib.linux-x86_64-2.6/south/tests/circular_b
+    copying south/tests/circular_b/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/circular_b
+    copying south/tests/circular_b/models.py -> build/lib.linux-x86_64-2.6/south/tests/circular_b
+    creating build/lib.linux-x86_64-2.6/south/tests/otherfakeapp
+    copying south/tests/otherfakeapp/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/otherfakeapp
+    copying south/tests/otherfakeapp/models.py -> build/lib.linux-x86_64-2.6/south/tests/otherfakeapp
+    creating build/lib.linux-x86_64-2.6/south/tests/deps_c
+    copying south/tests/deps_c/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/deps_c
+    copying south/tests/deps_c/models.py -> build/lib.linux-x86_64-2.6/south/tests/deps_c
+    creating build/lib.linux-x86_64-2.6/south/tests/deps_b
+    copying south/tests/deps_b/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/deps_b
+    copying south/tests/deps_b/models.py -> build/lib.linux-x86_64-2.6/south/tests/deps_b
+    creating build/lib.linux-x86_64-2.6/south/tests/non_managed
+    copying south/tests/non_managed/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/non_managed
+    copying south/tests/non_managed/models.py -> build/lib.linux-x86_64-2.6/south/tests/non_managed
+    creating build/lib.linux-x86_64-2.6/south/tests/circular_a/migrations
+    copying south/tests/circular_a/migrations/0001_first.py -> build/lib.linux-x86_64-2.6/south/tests/circular_a/migrations
+    copying south/tests/circular_a/migrations/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/circular_a/migrations
+    creating build/lib.linux-x86_64-2.6/south/tests/emptyapp/migrations
+    copying south/tests/emptyapp/migrations/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/emptyapp/migrations
+    creating build/lib.linux-x86_64-2.6/south/tests/deps_a/migrations
+    copying south/tests/deps_a/migrations/0001_a.py -> build/lib.linux-x86_64-2.6/south/tests/deps_a/migrations
+    copying south/tests/deps_a/migrations/0002_a.py -> build/lib.linux-x86_64-2.6/south/tests/deps_a/migrations
+    copying south/tests/deps_a/migrations/0003_a.py -> build/lib.linux-x86_64-2.6/south/tests/deps_a/migrations
+    copying south/tests/deps_a/migrations/0004_a.py -> build/lib.linux-x86_64-2.6/south/tests/deps_a/migrations
+    copying south/tests/deps_a/migrations/0005_a.py -> build/lib.linux-x86_64-2.6/south/tests/deps_a/migrations
+    copying south/tests/deps_a/migrations/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/deps_a/migrations
+    creating build/lib.linux-x86_64-2.6/south/tests/fakeapp/migrations
+    copying south/tests/fakeapp/migrations/0001_spam.py -> build/lib.linux-x86_64-2.6/south/tests/fakeapp/migrations
+    copying south/tests/fakeapp/migrations/0002_eggs.py -> build/lib.linux-x86_64-2.6/south/tests/fakeapp/migrations
+    copying south/tests/fakeapp/migrations/0003_alter_spam.py -> build/lib.linux-x86_64-2.6/south/tests/fakeapp/migrations
+    copying south/tests/fakeapp/migrations/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/fakeapp/migrations
+    creating build/lib.linux-x86_64-2.6/south/tests/brokenapp/migrations
+    copying south/tests/brokenapp/migrations/0001_depends_on_unmigrated.py -> build/lib.linux-x86_64-2.6/south/tests/brokenapp/migrations
+    copying south/tests/brokenapp/migrations/0002_depends_on_unknown.py -> build/lib.linux-x86_64-2.6/south/tests/brokenapp/migrations
+    copying south/tests/brokenapp/migrations/0003_depends_on_higher.py -> build/lib.linux-x86_64-2.6/south/tests/brokenapp/migrations
+    copying south/tests/brokenapp/migrations/0004_higher.py -> build/lib.linux-x86_64-2.6/south/tests/brokenapp/migrations
+    copying south/tests/brokenapp/migrations/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/brokenapp/migrations
+    creating build/lib.linux-x86_64-2.6/south/tests/circular_b/migrations
+    copying south/tests/circular_b/migrations/0001_first.py -> build/lib.linux-x86_64-2.6/south/tests/circular_b/migrations
+    copying south/tests/circular_b/migrations/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/circular_b/migrations
+    creating build/lib.linux-x86_64-2.6/south/tests/otherfakeapp/migrations
+    copying south/tests/otherfakeapp/migrations/0001_first.py -> build/lib.linux-x86_64-2.6/south/tests/otherfakeapp/migrations
+    copying south/tests/otherfakeapp/migrations/0002_second.py -> build/lib.linux-x86_64-2.6/south/tests/otherfakeapp/migrations
+    copying south/tests/otherfakeapp/migrations/0003_third.py -> build/lib.linux-x86_64-2.6/south/tests/otherfakeapp/migrations
+    copying south/tests/otherfakeapp/migrations/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/otherfakeapp/migrations
+    creating build/lib.linux-x86_64-2.6/south/tests/deps_c/migrations
+    copying south/tests/deps_c/migrations/0001_c.py -> build/lib.linux-x86_64-2.6/south/tests/deps_c/migrations
+    copying south/tests/deps_c/migrations/0002_c.py -> build/lib.linux-x86_64-2.6/south/tests/deps_c/migrations
+    copying south/tests/deps_c/migrations/0003_c.py -> build/lib.linux-x86_64-2.6/south/tests/deps_c/migrations
+    copying south/tests/deps_c/migrations/0004_c.py -> build/lib.linux-x86_64-2.6/south/tests/deps_c/migrations
+    copying south/tests/deps_c/migrations/0005_c.py -> build/lib.linux-x86_64-2.6/south/tests/deps_c/migrations
+    copying south/tests/deps_c/migrations/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/deps_c/migrations
+    creating build/lib.linux-x86_64-2.6/south/tests/deps_b/migrations
+    copying south/tests/deps_b/migrations/0001_b.py -> build/lib.linux-x86_64-2.6/south/tests/deps_b/migrations
+    copying south/tests/deps_b/migrations/0002_b.py -> build/lib.linux-x86_64-2.6/south/tests/deps_b/migrations
+    copying south/tests/deps_b/migrations/0003_b.py -> build/lib.linux-x86_64-2.6/south/tests/deps_b/migrations
+    copying south/tests/deps_b/migrations/0004_b.py -> build/lib.linux-x86_64-2.6/south/tests/deps_b/migrations
+    copying south/tests/deps_b/migrations/0005_b.py -> build/lib.linux-x86_64-2.6/south/tests/deps_b/migrations
+    copying south/tests/deps_b/migrations/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/deps_b/migrations
+    creating build/lib.linux-x86_64-2.6/south/tests/non_managed/migrations
+    copying south/tests/non_managed/migrations/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/non_managed/migrations
+    creating build/lib.linux-x86_64-2.6/south/utils
+    copying south/utils/__init__.py -> build/lib.linux-x86_64-2.6/south/utils
+    copying south/utils/datetime_utils.py -> build/lib.linux-x86_64-2.6/south/utils
+    copying south/utils/py3.py -> build/lib.linux-x86_64-2.6/south/utils
+    running install_lib
+    creating /usr/local/lib/python2.6/dist-packages/south
+    error: could not create '/usr/local/lib/python2.6/dist-packages/south': Permission denied
+    Complete output from command /usr/bin/python -c "import setuptools; __file__='/vagrant/energy/build/South/setup.py'; execfile('/vagrant/energy/build/South/setup.py')" install --single-version-externally-managed --record /tmp/pip-OUD8xY-record/install-record.txt --install-headers /vagrant/energy/lib/include:
+    running install
+
+running build
+
+running build_py
+
+creating build
+
+creating build/lib.linux-x86_64-2.6
+
+creating build/lib.linux-x86_64-2.6/south
+
+copying south/__init__.py -> build/lib.linux-x86_64-2.6/south
+
+copying south/exceptions.py -> build/lib.linux-x86_64-2.6/south
+
+copying south/logger.py -> build/lib.linux-x86_64-2.6/south
+
+copying south/models.py -> build/lib.linux-x86_64-2.6/south
+
+copying south/modelsinspector.py -> build/lib.linux-x86_64-2.6/south
+
+copying south/orm.py -> build/lib.linux-x86_64-2.6/south
+
+copying south/signals.py -> build/lib.linux-x86_64-2.6/south
+
+copying south/test_shim.py -> build/lib.linux-x86_64-2.6/south
+
+copying south/v2.py -> build/lib.linux-x86_64-2.6/south
+
+creating build/lib.linux-x86_64-2.6/south/creator
+
+copying south/creator/__init__.py -> build/lib.linux-x86_64-2.6/south/creator
+
+copying south/creator/actions.py -> build/lib.linux-x86_64-2.6/south/creator
+
+copying south/creator/changes.py -> build/lib.linux-x86_64-2.6/south/creator
+
+copying south/creator/freezer.py -> build/lib.linux-x86_64-2.6/south/creator
+
+creating build/lib.linux-x86_64-2.6/south/db
+
+copying south/db/__init__.py -> build/lib.linux-x86_64-2.6/south/db
+
+copying south/db/firebird.py -> build/lib.linux-x86_64-2.6/south/db
+
+copying south/db/generic.py -> build/lib.linux-x86_64-2.6/south/db
+
+copying south/db/mysql.py -> build/lib.linux-x86_64-2.6/south/db
+
+copying south/db/oracle.py -> build/lib.linux-x86_64-2.6/south/db
+
+copying south/db/postgresql_psycopg2.py -> build/lib.linux-x86_64-2.6/south/db
+
+copying south/db/sqlite3.py -> build/lib.linux-x86_64-2.6/south/db
+
+creating build/lib.linux-x86_64-2.6/south/management
+
+copying south/management/__init__.py -> build/lib.linux-x86_64-2.6/south/management
+
+creating build/lib.linux-x86_64-2.6/south/introspection_plugins
+
+copying south/introspection_plugins/__init__.py -> build/lib.linux-x86_64-2.6/south/introspection_plugins
+
+copying south/introspection_plugins/annoying_autoonetoone.py -> build/lib.linux-x86_64-2.6/south/introspection_plugins
+
+copying south/introspection_plugins/django_audit_log.py -> build/lib.linux-x86_64-2.6/south/introspection_plugins
+
+copying south/introspection_plugins/django_objectpermissions.py -> build/lib.linux-x86_64-2.6/south/introspection_plugins
+
+copying south/introspection_plugins/django_tagging.py -> build/lib.linux-x86_64-2.6/south/introspection_plugins
+
+copying south/introspection_plugins/django_taggit.py -> build/lib.linux-x86_64-2.6/south/introspection_plugins
+
+copying south/introspection_plugins/django_timezones.py -> build/lib.linux-x86_64-2.6/south/introspection_plugins
+
+copying south/introspection_plugins/geodjango.py -> build/lib.linux-x86_64-2.6/south/introspection_plugins
+
+creating build/lib.linux-x86_64-2.6/south/hacks
+
+copying south/hacks/__init__.py -> build/lib.linux-x86_64-2.6/south/hacks
+
+copying south/hacks/django_1_0.py -> build/lib.linux-x86_64-2.6/south/hacks
+
+creating build/lib.linux-x86_64-2.6/south/migration
+
+copying south/migration/__init__.py -> build/lib.linux-x86_64-2.6/south/migration
+
+copying south/migration/base.py -> build/lib.linux-x86_64-2.6/south/migration
+
+copying south/migration/migrators.py -> build/lib.linux-x86_64-2.6/south/migration
+
+copying south/migration/utils.py -> build/lib.linux-x86_64-2.6/south/migration
+
+creating build/lib.linux-x86_64-2.6/south/tests
+
+copying south/tests/__init__.py -> build/lib.linux-x86_64-2.6/south/tests
+
+copying south/tests/autodetection.py -> build/lib.linux-x86_64-2.6/south/tests
+
+copying south/tests/db.py -> build/lib.linux-x86_64-2.6/south/tests
+
+copying south/tests/db_firebird.py -> build/lib.linux-x86_64-2.6/south/tests
+
+copying south/tests/db_mysql.py -> build/lib.linux-x86_64-2.6/south/tests
+
+copying south/tests/freezer.py -> build/lib.linux-x86_64-2.6/south/tests
+
+copying south/tests/inspector.py -> build/lib.linux-x86_64-2.6/south/tests
+
+copying south/tests/logger.py -> build/lib.linux-x86_64-2.6/south/tests
+
+copying south/tests/logic.py -> build/lib.linux-x86_64-2.6/south/tests
+
+creating build/lib.linux-x86_64-2.6/south/db/sql_server
+
+copying south/db/sql_server/__init__.py -> build/lib.linux-x86_64-2.6/south/db/sql_server
+
+copying south/db/sql_server/pyodbc.py -> build/lib.linux-x86_64-2.6/south/db/sql_server
+
+creating build/lib.linux-x86_64-2.6/south/management/commands
+
+copying south/management/commands/__init__.py -> build/lib.linux-x86_64-2.6/south/management/commands
+
+copying south/management/commands/convert_to_south.py -> build/lib.linux-x86_64-2.6/south/management/commands
+
+copying south/management/commands/datamigration.py -> build/lib.linux-x86_64-2.6/south/management/commands
+
+copying south/management/commands/graphmigrations.py -> build/lib.linux-x86_64-2.6/south/management/commands
+
+copying south/management/commands/migrate.py -> build/lib.linux-x86_64-2.6/south/management/commands
+
+copying south/management/commands/migrationcheck.py -> build/lib.linux-x86_64-2.6/south/management/commands
+
+copying south/management/commands/schemamigration.py -> build/lib.linux-x86_64-2.6/south/management/commands
+
+copying south/management/commands/startmigration.py -> build/lib.linux-x86_64-2.6/south/management/commands
+
+copying south/management/commands/syncdb.py -> build/lib.linux-x86_64-2.6/south/management/commands
+
+copying south/management/commands/test.py -> build/lib.linux-x86_64-2.6/south/management/commands
+
+copying south/management/commands/testserver.py -> build/lib.linux-x86_64-2.6/south/management/commands
+
+creating build/lib.linux-x86_64-2.6/south/tests/circular_a
+
+copying south/tests/circular_a/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/circular_a
+
+copying south/tests/circular_a/models.py -> build/lib.linux-x86_64-2.6/south/tests/circular_a
+
+creating build/lib.linux-x86_64-2.6/south/tests/emptyapp
+
+copying south/tests/emptyapp/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/emptyapp
+
+copying south/tests/emptyapp/models.py -> build/lib.linux-x86_64-2.6/south/tests/emptyapp
+
+creating build/lib.linux-x86_64-2.6/south/tests/deps_a
+
+copying south/tests/deps_a/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/deps_a
+
+copying south/tests/deps_a/models.py -> build/lib.linux-x86_64-2.6/south/tests/deps_a
+
+creating build/lib.linux-x86_64-2.6/south/tests/fakeapp
+
+copying south/tests/fakeapp/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/fakeapp
+
+copying south/tests/fakeapp/models.py -> build/lib.linux-x86_64-2.6/south/tests/fakeapp
+
+creating build/lib.linux-x86_64-2.6/south/tests/brokenapp
+
+copying south/tests/brokenapp/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/brokenapp
+
+copying south/tests/brokenapp/models.py -> build/lib.linux-x86_64-2.6/south/tests/brokenapp
+
+creating build/lib.linux-x86_64-2.6/south/tests/circular_b
+
+copying south/tests/circular_b/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/circular_b
+
+copying south/tests/circular_b/models.py -> build/lib.linux-x86_64-2.6/south/tests/circular_b
+
+creating build/lib.linux-x86_64-2.6/south/tests/otherfakeapp
+
+copying south/tests/otherfakeapp/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/otherfakeapp
+
+copying south/tests/otherfakeapp/models.py -> build/lib.linux-x86_64-2.6/south/tests/otherfakeapp
+
+creating build/lib.linux-x86_64-2.6/south/tests/deps_c
+
+copying south/tests/deps_c/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/deps_c
+
+copying south/tests/deps_c/models.py -> build/lib.linux-x86_64-2.6/south/tests/deps_c
+
+creating build/lib.linux-x86_64-2.6/south/tests/deps_b
+
+copying south/tests/deps_b/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/deps_b
+
+copying south/tests/deps_b/models.py -> build/lib.linux-x86_64-2.6/south/tests/deps_b
+
+creating build/lib.linux-x86_64-2.6/south/tests/non_managed
+
+copying south/tests/non_managed/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/non_managed
+
+copying south/tests/non_managed/models.py -> build/lib.linux-x86_64-2.6/south/tests/non_managed
+
+creating build/lib.linux-x86_64-2.6/south/tests/circular_a/migrations
+
+copying south/tests/circular_a/migrations/0001_first.py -> build/lib.linux-x86_64-2.6/south/tests/circular_a/migrations
+
+copying south/tests/circular_a/migrations/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/circular_a/migrations
+
+creating build/lib.linux-x86_64-2.6/south/tests/emptyapp/migrations
+
+copying south/tests/emptyapp/migrations/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/emptyapp/migrations
+
+creating build/lib.linux-x86_64-2.6/south/tests/deps_a/migrations
+
+copying south/tests/deps_a/migrations/0001_a.py -> build/lib.linux-x86_64-2.6/south/tests/deps_a/migrations
+
+copying south/tests/deps_a/migrations/0002_a.py -> build/lib.linux-x86_64-2.6/south/tests/deps_a/migrations
+
+copying south/tests/deps_a/migrations/0003_a.py -> build/lib.linux-x86_64-2.6/south/tests/deps_a/migrations
+
+copying south/tests/deps_a/migrations/0004_a.py -> build/lib.linux-x86_64-2.6/south/tests/deps_a/migrations
+
+copying south/tests/deps_a/migrations/0005_a.py -> build/lib.linux-x86_64-2.6/south/tests/deps_a/migrations
+
+copying south/tests/deps_a/migrations/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/deps_a/migrations
+
+creating build/lib.linux-x86_64-2.6/south/tests/fakeapp/migrations
+
+copying south/tests/fakeapp/migrations/0001_spam.py -> build/lib.linux-x86_64-2.6/south/tests/fakeapp/migrations
+
+copying south/tests/fakeapp/migrations/0002_eggs.py -> build/lib.linux-x86_64-2.6/south/tests/fakeapp/migrations
+
+copying south/tests/fakeapp/migrations/0003_alter_spam.py -> build/lib.linux-x86_64-2.6/south/tests/fakeapp/migrations
+
+copying south/tests/fakeapp/migrations/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/fakeapp/migrations
+
+creating build/lib.linux-x86_64-2.6/south/tests/brokenapp/migrations
+
+copying south/tests/brokenapp/migrations/0001_depends_on_unmigrated.py -> build/lib.linux-x86_64-2.6/south/tests/brokenapp/migrations
+
+copying south/tests/brokenapp/migrations/0002_depends_on_unknown.py -> build/lib.linux-x86_64-2.6/south/tests/brokenapp/migrations
+
+copying south/tests/brokenapp/migrations/0003_depends_on_higher.py -> build/lib.linux-x86_64-2.6/south/tests/brokenapp/migrations
+
+copying south/tests/brokenapp/migrations/0004_higher.py -> build/lib.linux-x86_64-2.6/south/tests/brokenapp/migrations
+
+copying south/tests/brokenapp/migrations/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/brokenapp/migrations
+
+creating build/lib.linux-x86_64-2.6/south/tests/circular_b/migrations
+
+copying south/tests/circular_b/migrations/0001_first.py -> build/lib.linux-x86_64-2.6/south/tests/circular_b/migrations
+
+copying south/tests/circular_b/migrations/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/circular_b/migrations
+
+creating build/lib.linux-x86_64-2.6/south/tests/otherfakeapp/migrations
+
+copying south/tests/otherfakeapp/migrations/0001_first.py -> build/lib.linux-x86_64-2.6/south/tests/otherfakeapp/migrations
+
+copying south/tests/otherfakeapp/migrations/0002_second.py -> build/lib.linux-x86_64-2.6/south/tests/otherfakeapp/migrations
+
+copying south/tests/otherfakeapp/migrations/0003_third.py -> build/lib.linux-x86_64-2.6/south/tests/otherfakeapp/migrations
+
+copying south/tests/otherfakeapp/migrations/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/otherfakeapp/migrations
+
+creating build/lib.linux-x86_64-2.6/south/tests/deps_c/migrations
+
+copying south/tests/deps_c/migrations/0001_c.py -> build/lib.linux-x86_64-2.6/south/tests/deps_c/migrations
+
+copying south/tests/deps_c/migrations/0002_c.py -> build/lib.linux-x86_64-2.6/south/tests/deps_c/migrations
+
+copying south/tests/deps_c/migrations/0003_c.py -> build/lib.linux-x86_64-2.6/south/tests/deps_c/migrations
+
+copying south/tests/deps_c/migrations/0004_c.py -> build/lib.linux-x86_64-2.6/south/tests/deps_c/migrations
+
+copying south/tests/deps_c/migrations/0005_c.py -> build/lib.linux-x86_64-2.6/south/tests/deps_c/migrations
+
+copying south/tests/deps_c/migrations/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/deps_c/migrations
+
+creating build/lib.linux-x86_64-2.6/south/tests/deps_b/migrations
+
+copying south/tests/deps_b/migrations/0001_b.py -> build/lib.linux-x86_64-2.6/south/tests/deps_b/migrations
+
+copying south/tests/deps_b/migrations/0002_b.py -> build/lib.linux-x86_64-2.6/south/tests/deps_b/migrations
+
+copying south/tests/deps_b/migrations/0003_b.py -> build/lib.linux-x86_64-2.6/south/tests/deps_b/migrations
+
+copying south/tests/deps_b/migrations/0004_b.py -> build/lib.linux-x86_64-2.6/south/tests/deps_b/migrations
+
+copying south/tests/deps_b/migrations/0005_b.py -> build/lib.linux-x86_64-2.6/south/tests/deps_b/migrations
+
+copying south/tests/deps_b/migrations/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/deps_b/migrations
+
+creating build/lib.linux-x86_64-2.6/south/tests/non_managed/migrations
+
+copying south/tests/non_managed/migrations/__init__.py -> build/lib.linux-x86_64-2.6/south/tests/non_managed/migrations
+
+creating build/lib.linux-x86_64-2.6/south/utils
+
+copying south/utils/__init__.py -> build/lib.linux-x86_64-2.6/south/utils
+
+copying south/utils/datetime_utils.py -> build/lib.linux-x86_64-2.6/south/utils
+
+copying south/utils/py3.py -> build/lib.linux-x86_64-2.6/south/utils
+
+running install_lib
+
+creating /usr/local/lib/python2.6/dist-packages/south
+
+error: could not create '/usr/local/lib/python2.6/dist-packages/south': Permission denied
+
+----------------------------------------
+Command /usr/bin/python -c "import setuptools; __file__='/vagrant/energy/build/South/setup.py'; execfile('/vagrant/energy/build/South/setup.py')" install --single-version-externally-managed --record /tmp/pip-OUD8xY-record/install-record.txt --install-headers /vagrant/energy/lib/include failed with error code 1
+Exception information:
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 252, in main
+    self.run(options, args)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 410, in run
+    requirement_set.install(install_options)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 2017, in install
+    requirement.install(install_options)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 1515, in install
+    cwd=self.source_dir, filter_stdout=self._filter_install, show_stdout=False)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 3543, in call_subprocess
+    % (command_desc, proc.returncode))
+InstallationError: Command /usr/bin/python -c "import setuptools; __file__='/vagrant/energy/build/South/setup.py'; execfile('/vagrant/energy/build/South/setup.py')" install --single-version-externally-managed --record /tmp/pip-OUD8xY-record/install-record.txt --install-headers /vagrant/energy/lib/include failed with error code 1

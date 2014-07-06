@@ -1,0 +1,65 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% block head_title %}{% endblock head_title %}</title>
+
+    <!-- Bootstrap -->
+    <link href="{% static 'energyapi/css/bootswatch.min.css' %}" rel="stylesheet">
+    <link href="{% static 'energyapi/css/style.css' %}" rel="stylesheet">
+    
+    <!-- include for js charts -->
+    <script src="{% static 'energyapi/js/canvasjs.min.js' %}"></script>
+    
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+
+
+
+
+	<div class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <a id="brand" href="/" class="navbar-brand text-center">EnergyAPI</a>
+        </div>
+      </div>
+    </div>
+
+
+
+
+
+    <div class="site-wrapper">
+      <div class="site-wrapper-inner">
+        <div class="cover-container">
+          <div class="inner cover">
+            <div class="row">
+			  	<div class="col-xs-12">
+			  		testsets
+			  	</div>
+			</div>
+
+          	<footer>
+          		<p>** Do not consume data if prenant or if have history of heart disease</p>
+          	</footer>
+        </div>
+      </div>
+    </div>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="{% static 'energyapi/js/bootstrap.min.js' %}"></script>
+  </body>
+</html>
+
+
