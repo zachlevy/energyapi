@@ -5,8 +5,8 @@ from energyapi.models import Building
 from django.http import HttpResponseRedirect, HttpResponse
 import json
 
-def index(request):
-	return render(request, 'energyapi/index.html')
+def powerof50api(request):
+	return render(request, 'energyapi/powerof50/api.html')
 
 def powerof50buildings(request):
 	buildingId = 'testbuildingid'

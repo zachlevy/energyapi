@@ -1,0 +1,51 @@
+{% extends "energyapi/base.html" %}
+{% block body %}
+    <div class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <a id="brand" href="/" class="navbar-brand text-center">EnergyAPI</a>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12">
+          <h1>Power of 50 Hackathon API</h1>
+          <p><a href="http://www.marsdd.com/events/alert-powerof50-hackathon-2/">Event Site</a></p>
+
+
+
+          <h2 id="resource-building">Building</h2>
+          <h3>Resource URL</h3>
+          <pre>
+GET /powerof50/building/{buildingId}</pre>
+<p>
+  Example buildingId is <code>103951</code>
+</p>
+<p>
+  Returns basic data on a specified building.
+</p>
+          <h3>Example Result</h3>
+          <pre>
+{
+   "buildingId" : 103951,
+   "numUnits" : 131,
+   "numStories" : 1960,
+   "decadeBuilt" : 11,
+   "grossFloorArea" : 10219,
+   "totalEleckWh" : 989312,
+   "totalkWhNoWeather" : 936658,
+   "totalElecBill" : 99920,
+   "totalVolume" : 7842929,
+   "totalGaskWh" : 712994,
+   "totalGasBill" : 2721496,
+   "elecBaseNormAvgConsumption" : 91.7
+}</pre>
+        </div>
+      </div>
+      <footer>
+        <hr />
+        Created &copy; 2014
+      </footer>
+    </div>
+  {% endblock %}

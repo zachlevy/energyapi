@@ -1,0 +1,24 @@
+{ "buildings" : [
+{% for building in buildings %}
+{
+  "buildingId" : {{ building.buildingId }},
+  "numUnits" : {{ building.numUnits }},
+  "numStories" : {{ building.numStories }},
+  "decadeBuilt" : {{ building.decadeBuilt }},
+  "grossFloorArea" : {{ building.grossFloorArea }},
+  "totalEleckWh" : {{ building.totalEleckWh }},
+  "totalkWhNoWeather" : {{ building.totalkWhNoWeather }},
+  "totalElecBill" : {{ building.totalElecBill }},
+  "totalVolume" : {{ building.totalVolume }},
+  "totalGaskWh" : {{ building.totalGaskWh }},
+  "totalGasBill" : {{ building.totalGasBill }},
+  "elecBaseNormAvgConsumption" : {{ building.elecBaseNormAvgConsumption }}
+}
+{% if forloop.last %}
+
+{% else %}
+,
+{% endif %}
+
+{% endfor %}
+]}
