@@ -1,4 +1,3 @@
-{% load staticfiles %}
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -8,8 +7,8 @@
     <title>{% block head_title %}{% endblock head_title %}</title>
 
     <!-- Bootstrap -->
-    <link href="{% static 'energyapi/css/bootstrap.min.css' %}" rel="stylesheet">
-    <link href="{% static 'energyapi/css/style.css' %}" rel="stylesheet">
+    <link href="https://s3-us-west-2.amazonaws.com/energyapi/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://s3-us-west-2.amazonaws.com/energyapi/css/style.css" rel="stylesheet">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -27,8 +26,6 @@
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="{% static 'energyapi/js/bootstrap.min.js' %}"></script>
-    <!-- include for js charts -->
-    <script src="{% static 'energyapi/js/canvasjs.min.js' %}"></script>
+    <script src="https://s3-us-west-2.amazonaws.com/energyapi/js/bootstrap.min.js"></script>
   </body>
 </html>
